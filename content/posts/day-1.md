@@ -1,7 +1,7 @@
 ---
 title: "Day 1"
 date: 2021-08-24T20:41:33-05:00
-draft: true
+draft: false
 tags:
   - daily
 ---
