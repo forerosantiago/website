@@ -1,0 +1,53 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Santiago Forero</title>
+        <link>https://forero.ga/posts/</link>
+        <description>Recent content in Posts on Santiago Forero</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Tue, 24 Aug 2021 20:41:33 -0500</lastBuildDate>
+        <atom:link href="https://forero.ga/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Day 1</title>
+            <link>https://forero.ga/posts/day-1/</link>
+            <pubDate>Tue, 24 Aug 2021 20:41:33 -0500</pubDate>
+            
+            <guid>https://forero.ga/posts/day-1/</guid>
+            <description>Day: 1 Date: Tuesday, May 5, 2021  Dear readers, Today is the first day of my e-diary, a project that aims to document my life and share thoughts and ideas.
+I woke up at around 6:40 in the morning, took a shower, brushed my teeth and started my virtual school day, I do not enjoy virtual classes anymore, I&amp;rsquo;m tired of them, I believe that 1.5+ years of virtual school is enough for me, I cannot wait to go to the irl school.</description>
+            <content type="html"><![CDATA[<ul>
+<li><strong>Day:</strong> 1</li>
+<li><strong>Date:</strong> Tuesday, May 5, 2021</li>
+</ul>
+<p>Dear readers,
+Today is the first day of my e-diary, a project that aims to document my life and share thoughts and ideas.</p>
+<p>I woke up at around 6:40 in the morning, took a shower, brushed my teeth and started my virtual school day, I do not enjoy virtual classes anymore, I&rsquo;m tired of them, I believe that 1.5+ years of virtual school is enough for me, I cannot wait to go to the irl school.</p>
+<p>Until around 12PM my classes finally ended, I had my lunch and went to my athletics training (I&rsquo;m getting started in the athletics world, and I&rsquo;m already having a competition the saturday) from 3PM to 5PM, I believe it was the best part of my day.</p>
+<p>I really enjoy doing athleticism and I think it&rsquo;s a really nice way to spend my time. Today was my second day training with <strong>IDRD</strong> (Instituto Distrital de Recreación y Deporte) for free! Isn&rsquo;t it amazing? Today I worked on my running speed and practiced bit of javelin throwing, it isn&rsquo;t as hard as I thought it would be, but it still requires technique and concentration.</p>
+<p>This is a little summary of my day, it was a normal day, nothing special, I did enjoy a lot today&rsquo;s training.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>My new website</title>
+            <link>https://forero.ga/posts/my-new-website/</link>
+            <pubDate>Tue, 24 Aug 2021 18:16:02 -0500</pubDate>
+            
+            <guid>https://forero.ga/posts/my-new-website/</guid>
+            <description>Hello there, I&amp;rsquo;m glad you found my website, my small corner of the internet, you may be wondering what is this place, right? Well, this is my blog, yep, this is just another blog in the world wide web.
+I have had several failed attempts of a personal website/blog, they all looked terrible, I tried using php layouts, jekyll, plain HTML, etc&amp;hellip; but the results weren&amp;rsquo;t really nice for me :( (probably because I don&amp;rsquo;t know how to use them appropriately), so I decided to give premade themes a try with hugo, so far so good, it&amp;rsquo;s been working perfectly fine and it&amp;rsquo;s certainly better than my themes, the theme the website uses right now is called hello-friend-ng.</description>
+            <content type="html"><![CDATA[<p>Hello there, I&rsquo;m glad you found my website, my small corner of the internet, you may be wondering what is this place, right? Well, this is my blog, yep, this is just another blog in the world wide web.</p>
+<p>I have had several failed attempts of a personal website/blog, they all looked terrible, I tried using php layouts, jekyll, plain HTML, etc&hellip; but the results weren&rsquo;t really nice for me :( (probably because I don&rsquo;t know how to use them appropriately), so I decided to give premade themes a try with  <a href="https://gohugo.io/">hugo</a>, so far so good, it&rsquo;s been working perfectly fine and it&rsquo;s certainly better than my themes, the theme the website uses right now is called <a href="https://themes.gohugo.io/themes/hugo-theme-hello-friend-ng/">hello-friend-ng</a>. It&rsquo;s pretty simple but I like it :D</p>
+<h2 id="the-blog">The blog</h2>
+<p>My blog is a place to express, give opinions and share thoughts and ideas.</p>
+<p>This is the first post of my blog, I plan to write at least one short post everyday talking about my day, feelings, what I learned, etc. This kind of journal will be a fun way to document my life and practice my redaction skills. All these posts will have the <a href="http://forero.ga/tags/daily/">daily tag</a></p>
+<p>Additionally there will be less frecuent long posts about a topic in specific.</p>
+<h2 id="the-end">The end</h2>
+<p>Thank you for reading my post, I hope you enjoyed and stay tunned!</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
