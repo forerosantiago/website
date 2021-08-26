@@ -7,7 +7,7 @@ tags:
 ---
 
 - **Day:** 1
-- **Date:** Tuesday, May 5, 2021
+- **Date:** Tuesday, August 25, 2021
 
 Dear readers,
 Today is the first day of my e-diary, a project that aims to document my life and share thoughts and ideas.
