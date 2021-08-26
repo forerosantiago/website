@@ -12,6 +12,8 @@ tags:
 
 Today was a just a normal day, I didn't have classes, although I used my free time to do some homework from school, I even redacted an essay about death penalty, I didn't enjoy doing it.
 
+Me and my family were thinking about getting me vaccinated but we finally decided that I shouldn't do it yet, because I'm having an athletics competition really soon and I want to avoid side effects.
+
 I also spent some time on my pc, I created a new linux user and started creating my dotfiles, they are available [here](https://github.com/forerosantiago/dotfiles) by the way.
 
 In the afternoon I went with my sister to walk around the neighborhood, and finally at 7PM played in a chess tournament, I didn't do very well because I was tired.
