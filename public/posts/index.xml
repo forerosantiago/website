@@ -6,8 +6,60 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Thu, 26 Aug 2021 18:15:45 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 27 Aug 2021 08:48:47 -0500</lastBuildDate>
         <atom:link href="https://forero.ga/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Tildeverse</title>
+            <link>https://forero.ga/posts/tildeverse/</link>
+            <pubDate>Fri, 27 Aug 2021 08:48:47 -0500</pubDate>
+            
+            <guid>https://forero.ga/posts/tildeverse/</guid>
+            <description>In today&amp;rsquo;s article we are going to talk about ✨tildeverse ✨.
+What is tildeverse tildeverse is an association of tilde communities. Tildes are shared computers where people can create an account and learn about operating systems and computers safely and for free!
+Tildeverse provides some services to its users, it has a mastodon instance, irc network, git server, they even have a mc.minecraft server.
+tilde.chat is the irc network for tildeverse, members usually chat via irc or talk on the mumble server, there are lots of channels where you can talk about anything with a lot of friendly people.</description>
+            <content type="html"><![CDATA[<p><img src="https://tildeverse.org/logos/tildeverse-green.png" alt="tildeverse logo">
+In today&rsquo;s article we are going to talk about ✨tildeverse ✨.</p>
+<h2 id="what-is-tildeverse">What is tildeverse</h2>
+<p><a href="tildeverse.org/">tildeverse</a> is an association of tilde communities. Tildes are shared computers where people can create an account and learn about operating systems and computers safely and for free!</p>
+<p>Tildeverse provides some services to its users, it has a <a href="https://tilde.zone/about">mastodon instance</a>, <a href="https://tilde.chat/">irc network</a>, <a href="https://tildegit.org/">git server</a>, they even have a <a href="https://mc.tildeverse.org/">mc.minecraft server</a>.</p>
+<p><a href="https://tilde.chat/">tilde.chat</a> is the irc network for tildeverse, members usually chat via <a href="https://en.wikipedia.org/wiki/Internet_Relay_Chat">irc</a> or talk on the <a href="https://en.wikipedia.org/wiki/Mumble_(software)">mumble</a> server, there are lots of channels where you can talk about anything with a lot of friendly people.</p>
+<h2 id="cool-how-do-i-join">Cool, how do I join?</h2>
+<p>Tildeverse has several tilde members, so you&rsquo;d have to choose one and follow the sign up instructions, usually you&rsquo;d need to fill out a form with your email, username, ssh key and sometimes your password. Or email the admins, account creation usually takes a few days, because the user creation is a manual operation the admins have to make.</p>
+<p>When you get a shell account in a tilde you usually get an email address, cool, isn&rsquo;t it?</p>
+<h2 id="list-of-tildes">List of tildes</h2>
+<p>Here&rsquo;s a list of tildes that are associated with tildeverse.</p>
+<ul>
+<li><a href="http://tilde.club/">tilde.club</a> - the very first tilde</li>
+<li><a href="https://tilde.team/">tilde.team</a></li>
+<li><a href="https://texto-plano.xyz/">texto-plano.xyz</a> - Spanish speaking tilde</li>
+<li><a href="https://cosmic.voyage/">cosmic.voyage</a> - Science fiction enthusiasts</li>
+<li><a href="https://envs.net/">envs.net</a></li>
+</ul>
+<p>There are a lot more but I&rsquo;m not mentioning them, you can find the full list <a href="https://tildeverse.org/members/">here</a>.</p>
+<p>Here&rsquo;s a list of tildes that aren&rsquo;t associated with the tildeverse, however they are worth it :D</p>
+<ul>
+<li><a href="https://tilde.pt/">tilde.pt</a> - Portuguese speaking tilde</li>
+<li><a href="https://tilde.fun/">tilde.fun</a></li>
+<li><a href="https://www.remotes.club/">remotes.club</a> - Remote workers community</li>
+<li><a href="https://trash.town/">trash.town</a> - Reuse</li>
+</ul>
+<p>I bet there are a lot more out there on the internet.</p>
+<h2 id="tildes-where-you-can-find-me">Tildes where you can find me</h2>
+<p>I&rsquo;m ~forero everywhere</p>
+<ul>
+<li><a href="http://tilde.club/~forero/">tilde.club</a></li>
+<li><a href="https://forero.ttm.sh/">tilde.team</a></li>
+<li><a href="https://texto-plano.xyz/~forero/">textp-plano.xyz</a></li>
+<li><a href="https://tilde.fun/~forero">tilde.fun</a></li>
+<li><a href="https://cosmic.voyage/">cosmic.voyage</a></li>
+<li><a href="https://forero.envs.net/">envs.net</a></li>
+</ul>
+<h2 id="the-end">The end</h2>
+<p>This is the end of today&rsquo;s article, I hope you enjoyed and learned something. If you have anything to say or suggest please contact me, via email or irc. I&rsquo;ll be happy to listen you!</p>
+]]></content>
+        </item>
         
         <item>
             <title>Day 3</title>

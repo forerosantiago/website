@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tildeverse on Santiago Forero</title>
+    <link>https://forero.ga/tags/tildeverse/</link>
+    <description>Recent content in tildeverse on Santiago Forero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 27 Aug 2021 08:48:47 -0500</lastBuildDate><atom:link href="https://forero.ga/tags/tildeverse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tildeverse</title>
+      <link>https://forero.ga/posts/tildeverse/</link>
+      <pubDate>Fri, 27 Aug 2021 08:48:47 -0500</pubDate>
+      
+      <guid>https://forero.ga/posts/tildeverse/</guid>
+      <description>In today&amp;rsquo;s article we are going to talk about ✨tildeverse ✨.
+What is tildeverse tildeverse is an association of tilde communities. Tildes are shared computers where people can create an account and learn about operating systems and computers safely and for free!
+Tildeverse provides some services to its users, it has a mastodon instance, irc network, git server, they even have a mc.minecraft server.
+tilde.chat is the irc network for tildeverse, members usually chat via irc or talk on the mumble server, there are lots of channels where you can talk about anything with a lot of friendly people.</description>
+    </item>
+    
+  </channel>
+</rss>
