@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://forero.ga/posts/a-new-day/</loc>
-    <lastmod>2021-08-25T19:28:21-05:00</lastmod>
-  </url><url>
     <loc>https://forero.ga/tags/daily/</loc>
-    <lastmod>2021-08-25T19:28:21-05:00</lastmod>
+    <lastmod>2021-08-26T18:15:45+00:00</lastmod>
+  </url><url>
+    <loc>https://forero.ga/posts/day-3/</loc>
+    <lastmod>2021-08-26T18:15:45+00:00</lastmod>
   </url><url>
     <loc>https://forero.ga/posts/</loc>
-    <lastmod>2021-08-25T19:28:21-05:00</lastmod>
+    <lastmod>2021-08-26T18:15:45+00:00</lastmod>
   </url><url>
     <loc>https://forero.ga/</loc>
-    <lastmod>2021-08-25T19:28:21-05:00</lastmod>
+    <lastmod>2021-08-26T18:15:45+00:00</lastmod>
   </url><url>
     <loc>https://forero.ga/tags/</loc>
+    <lastmod>2021-08-26T18:15:45+00:00</lastmod>
+  </url><url>
+    <loc>https://forero.ga/posts/a-new-day/</loc>
     <lastmod>2021-08-25T19:28:21-05:00</lastmod>
   </url><url>
     <loc>https://forero.ga/posts/day-1/</loc>
